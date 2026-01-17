@@ -1,0 +1,14 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache (makes things faster for you, but useless on GitHub)
+__pycache__/
+*.py[cod]
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+env/
